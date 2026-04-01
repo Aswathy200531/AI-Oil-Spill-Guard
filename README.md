@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AI-Driven System for Oil Spill Identification and Monitoring
 
 Project Overview
@@ -39,3 +40,6 @@ Visualization of Results
 Web Application Deployment
 
 The system processes raw satellite imagery, detects oil spill regions, and provides visualization outputs through an interactive application.
+=======
+# AI-Oil-Spill-Detection
+>>>>>>> 86efd24 (Initial commit)
